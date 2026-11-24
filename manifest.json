@@ -1,0 +1,10 @@
+{
+  "id": "openrouter-copilot",
+  "name": " Copilot",
+  "version": "1.0.0 (probably the last)",
+  "minAppVersion": "1.0.0",
+  "description":"I don't even use Obsidian", 
+  "author": "EnzzzXD (with love)",
+  "authorUrl": "https://github.com/enzzzh",
+  "fundingUrl": "https://github.com/enzzzh/obsidian-copilot"
+}
